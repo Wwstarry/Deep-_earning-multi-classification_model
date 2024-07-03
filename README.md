@@ -1,1 +1,3 @@
-# Deep-_earning-multi-classification_model
+# Deep_learning-multi-classification_model
+
+基于深度学习的解析恶意android软件apk多分类模型
